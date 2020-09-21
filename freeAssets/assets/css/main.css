@@ -1,0 +1,41 @@
+.title{
+	font-family: 'Press Start 2P', cursive;
+	text-align:center;
+	color:white;
+}
+.container{
+	background-color:#6A503B;
+	border-top: 6px solid orange;
+	border-bottom: 6px solid orange;
+	border-right: 6px solid orange;
+	border-left: 6px solid orange;
+}
+.d{
+   font-family: 'Press Start 2P', cursive;
+   font-size:20px;
+   font-weight:700;
+   margin-top:30px;
+   text-align:left;
+   display:inline-block;
+   width:20%; 
+}
+
+.Discord{
+	font-family: 'Press Start 2P', cursive;
+	font-size:20px;
+	padding-top:7em;
+	text-align: center;
+}
+
+.container video{
+	float: right;
+	padding-right:25em;
+	padding-top:0em;
+}
+
+.container img{
+	width: 300px;
+	float: right;
+	padding-right:30em;
+	padding-top: 1em;
+}
